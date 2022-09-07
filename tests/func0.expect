@@ -1,0 +1,10 @@
+type 1
+ sig 1 i32 1 i32
+function 1
+ 0
+code 1
+ 8 0
+  local.get 0
+  i32.const -77
+  i32.add
+  end

@@ -1,0 +1,4 @@
+type 1
+ sig 1 i32 0
+import 1
+ 8 "spectest" 9 "print_i32" func 0
