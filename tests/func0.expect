@@ -1,9 +1,10 @@
-type 1
+type 1 			; count
  sig 1 i32 1 i32
-function 1
- 0
-code 1
- 8 0
+function 1 			; count
+ 0 			; signature index
+code 1 			; count
+body 8 			; length
+ 0 			; locals count
   local.get 0
   i32.const -77
   i32.add

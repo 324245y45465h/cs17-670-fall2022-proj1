@@ -1,4 +1,4 @@
-type 1
+type 1 			; count
  sig 1 i32 0
-import 1
+import 1 			; count
  8 "spectest" 9 "print_i32" func 0
