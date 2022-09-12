@@ -1,0 +1,9 @@
+memory 1 			; count
+ 1 1 			; initial and max
+
+data 1 			; count
+ 13 			; offset
+   3 			; bytes count
+
+ 61 62 63
+

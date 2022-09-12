@@ -1,0 +1,19 @@
+type 1 			; count
+ sig 0 0
+function 2 			; count
+ 0 			; signature index
+ 0 			; signature index
+table 1 			; count
+ funcref 11 11 			; initial and max
+
+element 1 			; count
+   6 			; offset
+   4 			; count
+     0 0 1 1
+code 2 			; count
+body 2 			; length
+ 0 			; locals count
+  end
+body 2 			; length
+ 0 			; locals count
+  end
