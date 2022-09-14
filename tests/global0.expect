@@ -1,0 +1,4 @@
+global 1 			; count
+ i32
+  i32.const 0
+  end
